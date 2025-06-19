@@ -17,11 +17,11 @@ dependencies {
 }
 
 // Specify Java version for compiling (Java toolchain)
-java {
-    toolchain {
-        languageVersion = JavaLanguageVersion.of(17)
-    }
-}
+//java {
+//    toolchain {
+//        languageVersion = JavaLanguageVersion.of(21)
+//    }
+//}
 
 // Specify the main class of your application here:
 application {
